@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile Banking</string>
+    <string name="prompt">Select Transfer Type</string>
+    <string-array name="txtGroup">
+        <item>From Checking to Savings</item>
+        <item>From Savings to Checking</item>
+
+    </string-array>
+</resources>
